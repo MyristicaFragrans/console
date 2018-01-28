@@ -293,7 +293,7 @@ function menu() {
         }else if(secretcode=="Rainbowteam"||secretcode=="Mikerific"){
             print("You know mikerific? Wow!")
             gold=011011010110100101101011011001010111001001101001011001100110100101100011001011100110001101101111011011010010111101110010011010010110011001101001011000110010110101100100011100100110000101110111
-        }else if(secretcode=="Ronan"||secretcode=="Grandfathersnake"||secretcode=="Neptune"){
+        }else if(secretcode=="Myristica"||secretcode=="MyristicaFragrans"||secretcode=="Neptune"){
             print("You have the blue hearth")
             gold=40000
             strength=50000
